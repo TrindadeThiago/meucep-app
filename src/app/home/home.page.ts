@@ -22,4 +22,8 @@ export class HomePage {
     this.enderecos.push(endereco1)
   }
 
+  listarEnderecos() {
+
+  }
+
 }
